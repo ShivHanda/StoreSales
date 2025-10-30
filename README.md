@@ -1,4 +1,4 @@
-# StoreSales
+# Store Sales
 
 ![](https://github.com/ShivHanda/StoreSales/blob/main/Store%20Sales.jpeg)
 
